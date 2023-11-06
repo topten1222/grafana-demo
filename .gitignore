@@ -1,0 +1,4 @@
+/grafana-storage/
+/alertmanager/alertmanager-data/
+/prometheus/prometheus_db/
+/www/
